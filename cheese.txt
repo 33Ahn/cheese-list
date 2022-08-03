@@ -1,5 +1,6 @@
-cheddar
-mozzarella
-roquefort
-compte
-fontina
+Cheddar
+Mozzarella
+Roquefort
+Compte
+Fontina
+Wensleydale
